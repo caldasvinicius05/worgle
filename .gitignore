@@ -11,8 +11,8 @@
 **.env.production
 
 # Ignorar o banco de dados SQLite local de testes
-**/backend/*.db
-**/backend/*.sqlite
+**/worgle-backend/*.db
+**/worgle-backend/*.sqlite
 
 # Outros arquivos do sistema
 .DS_Store
